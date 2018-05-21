@@ -10,6 +10,7 @@ class App extends Component {
           <Navbar inverse collapseOnSelect className="customNav">
             <Navbar.Header>
               <Navbar.Brand>
+                {/** No entiendo esta parte, esto parece que no tiene nada que ver con este proyecto.**/}
                 <a href="/#">Presupuestos InfraTel</a>
               </Navbar.Brand>
               <Navbar.Toggle />
